@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# Output generato dalle analisi
+output/
+
+# Backup di sviluppo
+BACKUPS_STAGE28/
+
+# Log
+*.log
+
+# Cache test/lint
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# File locali
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.bak
