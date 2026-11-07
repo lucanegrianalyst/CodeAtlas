@@ -1,5 +1,7 @@
 # CodeAtlas
 
+[![Python Code Quality](https://github.com/lucanegrianalyst/CodeAtlas/actions/workflows/ci.yml/badge.svg)](https://github.com/lucanegrianalyst/CodeAtlas/actions/workflows/ci.yml)
+
 Un tool CLI avanzato sviluppato in Python per l'inventario, l'analisi statica e la generazione di report (JSON/Markdown/TXT) di progetti software complessi. 
 
 CodeAtlas è progettato per estrarre una vista strutturata del codice e dell'ambiente (runtime, database, API, flussi dati) al fine di fornire contesto strutturato e documentazione tecnica, utile anche per l'integrazione con sistemi AI (LLM).
